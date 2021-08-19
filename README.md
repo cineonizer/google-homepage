@@ -1,6 +1,6 @@
 # Google Homepage
 
-This is a project from the curriculum of [The Odin Project's Foundation Path](https://www.theodinproject.com/courses/foundations/lessons/html-css).
+This is the [Google Homepage](https://www.theodinproject.com/courses/foundations/lessons/html-css) project from the curriculum of [The Odin Project's Foundation Path](https://www.theodinproject.com/paths/foundations/courses/foundations).
 
 #### What is The Odin Project?
 
