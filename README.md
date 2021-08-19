@@ -21,6 +21,6 @@ Replicate the look of Google homepage.
 
 ## Learning Outcomes
 
-* Familarized myself with the layout and structure of HTML.
+* Familiarized myself with the layout and structure of HTML.
 * Accustomed myself to basic styling a web page using CSS.
 * Learned how to set up repositories and pushing commits to GitHub.
